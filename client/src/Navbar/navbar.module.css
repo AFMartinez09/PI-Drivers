@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(225, 6, 0, 1)
+}
+
+.container-img img{
+    width: 3rem;
+    padding: 8px;
+    
+    }
